@@ -1,0 +1,43 @@
+/* add your CSS here */
+
+.First {
+  width: 340px;
+  border: thin groove;
+  box-shadow: 5px 5px gray;
+  margin: auto;
+  padding: 5px;
+  adding-left: 9px;
+    padding-right: 9px;
+}
+
+/* Adjust header to align with image and information */
+.name {
+  padding-left: 10px;
+  font-family: Calibri, Candara, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+/* Style the image to have a margin, and to adjust the width */
+.pic_Animal {
+  width: 300px;
+  padding-bottom: 30px;
+  border-radius: 6px;
+  display: block;
+  margin: auto;
+  }
+
+/* Style to italize and to justify */
+.fa {
+  font-style: italic;
+}
+
+/* Adjust information including border, margin, alignment and font */
+.info {
+  border: thin groove gray;
+  border-radius: 6px;
+  margin: 6px;
+  padding-left: 6px;
+    padding-right: 6px;
+  }
+  .n{font-weight: bold;}
+  li{list-style: none;}
+  ul{padding: 0;}
